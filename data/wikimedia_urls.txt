@@ -1,0 +1,639 @@
+https://upload.wikimedia.org/wikipedia/commons/9/9f/Maya_Syllabary_A_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=a_3.jpg
+https://upload.wikimedia.org/wikipedia/commons/8/84/B%27A_bis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=b_prime_a_bis.jpg
+https://upload.wikimedia.org/wikipedia/commons/a/a5/B%27A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=b_prime_a.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/ea/Maya_Syllabary_Ch%27a_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ch_prime_a_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/3/3f/CHA_maya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=cha_maya.jpg
+https://upload.wikimedia.org/wikipedia/commons/d/d5/CHA_PFX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=cha_pfx.jpg
+https://upload.wikimedia.org/wikipedia/commons/f/fa/CHA_SFX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=cha_sfx.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/9f/CHI.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=chi.jpg
+https://upload.wikimedia.org/wikipedia/commons/8/81/CHO_PFX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=cho_pfx.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/e2/CHOU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=chou.jpg
+https://upload.wikimedia.org/wikipedia/commons/d/d4/Corrections_p1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=corrections_p1.jpg
+https://upload.wikimedia.org/wikipedia/commons/a/a4/Corrections_p3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=corrections_p3.jpg
+https://upload.wikimedia.org/wikipedia/commons/8/8c/Lettre_maya_E.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=maya_e.jpg
+https://upload.wikimedia.org/wikipedia/commons/c/c1/HA_classic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ha_classic.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/ed/HE_classic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=he_classic.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/96/HI_classic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=hi_classic.jpg
+https://upload.wikimedia.org/wikipedia/commons/7/7c/HO_classic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ho_classic.jpg
+https://upload.wikimedia.org/wikipedia/commons/5/5d/HU_classic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=hu_classic.jpg
+https://upload.wikimedia.org/wikipedia/commons/0/0c/Lettre_Maya_I.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=maya_i.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/e9/JA_Syllabogramme_maya.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ja.jpg
+https://upload.wikimedia.org/wikipedia/commons/d/d0/Maya-Ka.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=maya-ka.png
+https://upload.wikimedia.org/wikipedia/commons/7/79/Maya-Ka2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=maya-ka2.png
+https://upload.wikimedia.org/wikipedia/commons/7/72/Glyphe_maya_alternatif_%22ke%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=alternatif_"ke".jpg
+https://upload.wikimedia.org/wikipedia/commons/c/c2/MA_PFX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ma_pfx.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/96/MA_SFX_Syllabe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ma_sfx_syllabe.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/63/MA_Syllabe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ma_syllabe.jpg
+https://upload.wikimedia.org/wikipedia/commons/0/07/Maya_Syllabary_A_1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=a_1.svg
+https://upload.wikimedia.org/wikipedia/commons/8/8b/Maya_Syllabary_A_2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=a_2.svg
+https://upload.wikimedia.org/wikipedia/commons/f/f4/Maya_Syllabary_A_3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=a_3.svg
+https://upload.wikimedia.org/wikipedia/commons/5/51/Maya_Syllabary_A_4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=a_4.svg
+https://upload.wikimedia.org/wikipedia/commons/1/10/Maya_Syllabary_Ba_1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ba_1.svg
+https://upload.wikimedia.org/wikipedia/commons/a/a4/Maya_Syllabary_Ba_2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ba_2.svg
+https://upload.wikimedia.org/wikipedia/commons/b/b5/Maya_Syllabary_Ba_3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ba_3.svg
+https://upload.wikimedia.org/wikipedia/commons/6/61/Maya_Syllabary_Bi_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=bi_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/1/1f/Maya_Syllabary_Bi_1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=bi_1.svg
+https://upload.wikimedia.org/wikipedia/commons/0/09/Maya_Syllabary_Bi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=bi_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/8/85/Maya_Syllabary_Bi_2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=bi_2.svg
+https://upload.wikimedia.org/wikipedia/commons/b/b8/Maya_Syllabary_Bi_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=bi_3.jpg
+https://upload.wikimedia.org/wikipedia/commons/1/18/Maya_Syllabary_Bi_3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=bi_3.svg
+https://upload.wikimedia.org/wikipedia/commons/4/40/Maya_Syllabary_Bo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=bo_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/94/Maya_Syllabary_Bo_1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=bo_1.svg
+https://upload.wikimedia.org/wikipedia/commons/6/61/Maya_Syllabary_Bu_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=bu_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/f/fb/Maya_Syllabary_Bu_1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=bu_1.svg
+https://upload.wikimedia.org/wikipedia/commons/6/61/Maya_Syllabary_Bu_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=bu_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/8/82/Maya_Syllabary_Bu_2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=bu_2.svg
+https://upload.wikimedia.org/wikipedia/commons/0/05/Maya_Syllabary_Ch%27u_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ch_prime_u_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/f/f2/Maya_Syllabary_Cha_1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=cha_1.svg
+https://upload.wikimedia.org/wikipedia/commons/f/f7/Maya_Syllabary_Cha_2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=cha_2.svg
+https://upload.wikimedia.org/wikipedia/commons/d/d9/Maya_Syllabary_Cha_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=cha_3.jpg
+https://upload.wikimedia.org/wikipedia/commons/8/8a/Maya_Syllabary_Cha_3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=cha_3.svg
+https://upload.wikimedia.org/wikipedia/commons/c/c9/Maya_Syllabary_Cha_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=cha_4.jpg
+https://upload.wikimedia.org/wikipedia/commons/2/26/Maya_Syllabary_Cha_4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=cha_4.svg
+https://upload.wikimedia.org/wikipedia/commons/c/c2/Maya_Syllabary_Che_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=che_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/0/05/Maya_Syllabary_Che_1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=che_1.svg
+https://upload.wikimedia.org/wikipedia/commons/9/9e/Maya_Syllabary_Chi_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=chi_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/f/f5/Maya_Syllabary_Chi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=chi_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/f/f9/Maya_Syllabary_Cho_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=cho_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/1/19/Maya_Syllabary_Chu_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=chu_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/7/78/Maya_Syllabary_E_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=e_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/0/0d/Maya_Syllabary_E_1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=e_1.svg
+https://upload.wikimedia.org/wikipedia/commons/9/90/Maya_Syllabary_E_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=e_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/2/27/Maya_Syllabary_E_2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=e_2.svg
+https://upload.wikimedia.org/wikipedia/commons/9/99/Maya_Syllabary_Ha_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ha_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/5/51/Maya_Syllabary_He_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=he_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/0/09/Maya_Syllabary_Hi_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=hi_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/d/d9/Maya_Syllabary_Hi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=hi_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/91/Maya_Syllabary_Ho_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ho_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/f/f4/Maya_Syllabary_Hu_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=hu_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/5/5d/Maya_Syllabary_I_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=i_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/0/07/Maya_Syllabary_I_1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=i_1.svg
+https://upload.wikimedia.org/wikipedia/commons/7/72/Maya_Syllabary_I_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=i_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/9d/Maya_Syllabary_I_2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=i_2.svg
+https://upload.wikimedia.org/wikipedia/commons/5/54/Maya_Syllabary_Ja_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ja_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/a/a4/Maya_Syllabary_Ja_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ja_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/8/85/Maya_Syllabary_Ja_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ja_3.jpg
+https://upload.wikimedia.org/wikipedia/commons/2/23/Maya_Syllabary_Je_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=je_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/3/3d/Maya_Syllabary_Je_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=je_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/4/47/Maya_Syllabary_Ji_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ji_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/a/ae/Maya_Syllabary_Ji_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ji_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/b/bb/Maya_Syllabary_Ji_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ji_3.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/9b/Maya_Syllabary_Jo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=jo_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/3/3b/Maya_Syllabary_Jo_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=jo_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/5/51/Maya_Syllabary_Ju_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ju_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/7/75/Maya_Syllabary_K%27a_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=k_prime_a_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/0/0e/Maya_Syllabary_K%27a_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=k_prime_a_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/8/83/Maya_Syllabary_K%27e_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=k_prime_e_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/1/1e/Maya_Syllabary_K%27i_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=k_prime_i_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/66/Maya_Syllabary_K%27o_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=k_prime_o_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/5/56/Maya_Syllabary_K%27u_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=k_prime_u_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/7/7e/Maya_Syllabary_K%27u_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=k_prime_u_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/9c/Maya_Syllabary_Ka_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ka_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/2/26/Maya_Syllabary_Ka_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ka_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/2/2e/Maya_Syllabary_Ka_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ka_3.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/61/Maya_Syllabary_Ke_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ke_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/c/cd/Maya_Syllabary_Ke_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ke_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/96/Maya_Syllabary_Ki_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ki_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/5/54/Maya_Syllabary_Ki_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ki_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/eb/Maya_Syllabary_Ko_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ko_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/3/3d/Maya_Syllabary_Ku_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ku_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/66/Maya_Syllabary_Ku_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ku_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/d/d6/Maya_Syllabary_La_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=la_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/b/bd/Maya_Syllabary_La_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=la_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/8/80/Maya_Syllabary_Le_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=le_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/1/16/Maya_Syllabary_Li_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=li_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/0/0c/Maya_Syllabary_Li_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=li_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/ef/Maya_Syllabary_Li_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=li_3.jpg
+https://upload.wikimedia.org/wikipedia/commons/0/02/Maya_Syllabary_Lo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=lo_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/9d/Maya_Syllabary_Lu_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=lu_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/61/Maya_Syllabary_Ma_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ma_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/8/8e/Maya_Syllabary_Ma_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ma_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/b/b9/Maya_Syllabary_Ma_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ma_3.jpg
+https://upload.wikimedia.org/wikipedia/commons/c/cd/Maya_Syllabary_Ma_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ma_4.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/68/Maya_Syllabary_Me_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=me_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/b/b8/Maya_Syllabary_Mi_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=mi_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/7/7f/Maya_Syllabary_Mi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=mi_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/2/2f/Maya_Syllabary_Mo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=mo_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/f/f4/Maya_Syllabary_Mu_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=mu_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/8/87/Maya_Syllabary_Mu_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=mu_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/61/Maya_Syllabary_Na_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=na_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/d/d0/Maya_Syllabary_Na_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=na_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/7/74/Maya_Syllabary_Na_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=na_3.jpg
+https://upload.wikimedia.org/wikipedia/commons/7/71/Maya_Syllabary_Ne_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ne_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/5/59/Maya_Syllabary_Ne_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ne_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/c/c5/Maya_Syllabary_Ne_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ne_3.jpg
+https://upload.wikimedia.org/wikipedia/commons/1/14/Maya_Syllabary_Ni_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ni_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/8/84/Maya_Syllabary_Ni_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ni_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/5/5c/Maya_Syllabary_No_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=no_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/a/a2/Maya_Syllabary_No_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=no_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/5/54/Maya_Syllabary_Nu_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=nu_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/1/12/Maya_Syllabary_Nu_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=nu_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/a/a7/Maya_Syllabary_Nu_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=nu_3.jpg
+https://upload.wikimedia.org/wikipedia/commons/a/a4/Maya_Syllabary_O_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=o_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/7/76/Maya_Syllabary_O_1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=o_1.svg
+https://upload.wikimedia.org/wikipedia/commons/2/26/Maya_Syllabary_Pa_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=pa_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/c/ce/Maya_Syllabary_Pa_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=pa_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/9f/Maya_Syllabary_Pi_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=pi_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/4/46/Maya_Syllabary_Po_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=po_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/d/d5/Maya_Syllabary_Pu_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=pu_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/5/58/Maya_Syllabary_Sa_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=sa_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/e8/Maya_Syllabary_Sa_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=sa_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/3/3d/Maya_Syllabary_Sa_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=sa_3.jpg
+https://upload.wikimedia.org/wikipedia/commons/7/7a/Maya_Syllabary_Sa_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=sa_4.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/67/Maya_Syllabary_Sa_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=sa_5.jpg
+https://upload.wikimedia.org/wikipedia/commons/1/1b/Maya_Syllabary_Se_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=se_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/4/4b/Maya_Syllabary_Si_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=si_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/b/bb/Maya_Syllabary_Su_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=su_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/8/86/Maya_Syllabary_T%27u_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=t_prime_u_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/ed/Maya_Syllabary_Ta_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ta_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/2/20/Maya_Syllabary_Ta_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ta_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/1/11/Maya_Syllabary_Ta_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ta_3.jpg
+https://upload.wikimedia.org/wikipedia/commons/1/11/Maya_Syllabary_Ta_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ta_4.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/91/Maya_Syllabary_Ta_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ta_5.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/e6/Maya_Syllabary_Te_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=te_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/8/83/Maya_Syllabary_Ti_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ti_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/0/0e/Maya_Syllabary_Ti_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ti_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/4/44/Maya_Syllabary_To_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=to_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/7/73/Maya_Syllabary_To_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=to_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/3/38/Maya_Syllabary_To_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=to_3.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/9a/Maya_Syllabary_Tu_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=tu_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/99/Maya_Syllabary_Tz%27a_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=tz_prime_a_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/b/b0/Maya_Syllabary_Tz%27i_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=tz_prime_i_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/f/f1/Maya_Syllabary_Tz%27u_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=tz_prime_u_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/e5/Maya_Syllabary_Tz%27u_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=tz_prime_u_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/63/Maya_Syllabary_Tza_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=tza_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/e6/Maya_Syllabary_Tze_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=tze_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/5/54/Maya_Syllabary_Tzi_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=tzi_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/4/41/Maya_Syllabary_Tzi_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=tzi_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/1/1e/Maya_Syllabary_Tzu_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=tzu_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/5/53/Maya_Syllabary_U_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=u_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/1/10/Maya_Syllabary_U_1.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=u_1.svg
+https://upload.wikimedia.org/wikipedia/commons/e/ea/Maya_Syllabary_U_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=u_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/69/Maya_Syllabary_U_2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=u_2.svg
+https://upload.wikimedia.org/wikipedia/commons/8/85/Maya_Syllabary_U_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=u_3.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/97/Maya_Syllabary_U_3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=u_3.svg
+https://upload.wikimedia.org/wikipedia/commons/0/0a/Maya_Syllabary_U_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=u_4.jpg
+https://upload.wikimedia.org/wikipedia/commons/7/77/Maya_Syllabary_U_4.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=u_4.svg
+https://upload.wikimedia.org/wikipedia/commons/1/10/Maya_Syllabary_U_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=u_5.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/e9/Maya_Syllabary_U_5.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=u_5.svg
+https://upload.wikimedia.org/wikipedia/commons/6/61/Maya_Syllabary_U_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=u_6.jpg
+https://upload.wikimedia.org/wikipedia/commons/b/b4/Maya_Syllabary_U_6.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=u_6.svg
+https://upload.wikimedia.org/wikipedia/commons/d/d8/Maya_Syllabary_U_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=u_7.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/e0/Maya_Syllabary_U_7.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=u_7.svg
+https://upload.wikimedia.org/wikipedia/commons/3/35/Maya_Syllabary_U_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=u_8.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/97/Maya_Syllabary_U_8.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=u_8.svg
+https://upload.wikimedia.org/wikipedia/commons/4/49/Maya_Syllabary_Wa_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=wa_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/3/3d/Maya_Syllabary_We_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=we_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/e7/Maya_Syllabary_Wi_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=wi_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/3/38/Maya_Syllabary_Wo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=wo_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/f/fd/Maya_Syllabary_Xa_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=xa_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/f/fd/Maya_Syllabary_Xi_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=xi_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/61/Maya_Syllabary_Xo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=xo_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/0/02/Maya_Syllabary_Xu_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=xu_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/1/1b/Maya_Syllabary_Ya_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ya_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/6/6c/Maya_Syllabary_Ya_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ya_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/c/cd/Maya_Syllabary_Ye_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ye_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/2/25/Maya_Syllabary_Ye_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ye_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/f/f7/Maya_Syllabary_Yi_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=yi_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/c/cd/Maya_Syllabary_Yo_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=yo_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/4/44/Maya_Syllabary_Yo_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=yo_2.jpg
+https://upload.wikimedia.org/wikipedia/commons/d/d9/Maya_Syllabary_Yu_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=yu_1.jpg
+https://upload.wikimedia.org/wikipedia/commons/0/0e/MI_Syllabe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=mi_syllabe.jpg
+https://upload.wikimedia.org/wikipedia/commons/d/de/MO_Syllabe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=mo_syllabe.jpg
+https://upload.wikimedia.org/wikipedia/commons/1/11/MOU_SFX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=mou_sfx.jpg
+https://upload.wikimedia.org/wikipedia/commons/d/dd/Glyphe_maya_syllabaire_%22no%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=syllabaire_"no".jpg
+https://upload.wikimedia.org/wikipedia/commons/3/33/Glyphe_maya_alternatif_NOU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=alternatif_nou.jpg
+https://upload.wikimedia.org/wikipedia/commons/8/83/Lettre_Maya_O.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=maya_o.jpg
+https://upload.wikimedia.org/wikipedia/commons/9/91/O_PFX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=o_pfx.jpg
+https://upload.wikimedia.org/wikipedia/commons/b/b2/Maya-Tzi.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=maya-tzi.png
+https://upload.wikimedia.org/wikipedia/commons/5/5c/Lettre_OU_suffixe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ou_suf.jpg
+https://upload.wikimedia.org/wikipedia/commons/1/1d/Lettre_OU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ou.jpg
+https://upload.wikimedia.org/wikipedia/commons/c/c3/OU_PFX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ou_pfx.jpg
+https://upload.wikimedia.org/wikipedia/commons/d/d4/Ya_Bis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ya_bis.jpg
+https://upload.wikimedia.org/wikipedia/commons/e/ed/YA_Syll.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+  dir=/storage/self/primary/PY_Projects/Macehualtlahtol/Mayaihcuilolliztli/glyphs
+  output=ya_syll.jpg

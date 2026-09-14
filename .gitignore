@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+output/
+download_glyphs.log
+.claude/
+*.log
