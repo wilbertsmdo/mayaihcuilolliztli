@@ -304,3 +304,43 @@ Full Phase 1 + Phase 2 pipeline is working end-to-end:
 - Streamlit is not installable on Termux Python 3.13 aarch64 (pandas/pyarrow require compiled C++ — no wheels available). Flask is the correct choice for this platform.
 - `mappings.json` structure: `{base_cv_key: [{variant_key, local_file, drive_id, wikimedia_title, url}, …]}`. Multiple variants per key are normal.
 - The `ko` glyph (oval crosshatch pattern) and `cho` sign rendered correctly and look authentic for "chocolate".
+
+---
+
+## Checkpoint — 2026-09-15
+
+### Work completed this session
+
+- **Switched web framework for deployment:** replaced Flask `app.py` with Gradio `app.py` (Gradio is natively supported by HF Spaces; Flask requires a custom Docker container which is Paid-only on HF).
+- **Created HF Space manually:** HF API token authentication was repeatedly rejected despite correct account/email. Workaround: created the Space at huggingface.co/new-space in the browser (SDK: Gradio, Template: Blank, Hardware: ZeroGPU Free, Visibility: Public, name: Mayaihcuilolliztli).
+- **Installed `huggingface_hub`** (without `hf-xet` dependency, which requires Rust/maturin — not available on this platform): `pip3 install huggingface_hub --no-deps` + pure-Python deps.
+- **Uploaded project to HF Space** via `api.upload_folder()` — bypasses the git binary-file restriction HF now enforces (git push rejected all `.jpg` glyph files, directing to their Xet storage system).
+- **Fixed ZeroGPU runtime error:** HF's ZeroGPU requires at least one `@spaces.GPU`-decorated function or the container shuts down at startup. Added `import spaces` and `@spaces.GPU(duration=0)` to the `transliterate()` function in `app.py`. Re-uploaded.
+- **Added three informational accordion sections** to `app.py` below the main UI:
+  - *What is this?* — concept, Maya syllabary background, meaning of the Nahuatl name
+  - *Methodology* — four-stage pipeline explained (syllabify → Landa mapping → synharmony → render)
+  - *Sources & credits* — Wikimedia glyph attribution, Landa, Montgomery, Kettunen, GitHub link
+- **Committed and pushed to GitHub:** repo at https://github.com/wilbertsmdo/mayaihcuilolliztli (249 files including 235 glyph JPGs).
+
+### Current state
+
+- App is **live and public** at https://huggingface.co/spaces/wilbertsmdo/Mayaihcuilolliztli
+- Anyone with the link can use it — no login required
+- ZeroGPU free tier: ~30s cold start after inactivity, then runs normally
+- Three collapsible info sections visible below the tool
+- Full pipeline (syllabify → map → render) working end-to-end in the cloud
+- GitHub repo is up to date
+
+### Next steps
+
+1. **Manual QA on HF Space** — test a wider range of Spanish words; look for mapping errors, layout issues, missing glyphs.
+2. **Syllabary gap review** — decide whether to supplement `be`, `pe`, `so`, `wu`, `xe` from alternative SVG sources or keep current fallbacks.
+3. **Variant selector** — `_pick_file()` in `renderer_linear.py` always picks the canonical variant; consider exposing a variant toggle in the UI.
+4. **Phase 3 — English support:** implement `syllabifier_en.py` (CMU dict + rule-based fallback) and extend `phoneme_mapper.py` for English phonemes.
+5. **Phase 4 (future):** Maya-style agglutinated glyph block compositor.
+
+### Notes
+
+- HF API token authentication consistently failed (both fine-grained and classic tokens). The token works for the git push (via HTTP basic auth as password) but was rejected by the `/api/whoami` endpoint. Root cause unknown — possibly a new-account restriction or rate limit. Workaround: manual Space creation in browser + `huggingface_hub` Python upload API (which uses the same token but a different auth path that did work).
+- `hf-xet` (HF's new blob storage client) requires Rust/maturin to build — not available on Termux/PRoot aarch64. Install `huggingface_hub` with `--no-deps` to skip it; the regular upload API still works for files under ~5 GB.
+- ZeroGPU `@spaces.GPU(duration=0)` trick: the `duration=0` hint tells ZeroGPU the function needs the GPU for zero seconds (i.e., never), but the decorator satisfies the "at least one GPU function" requirement so the container stays alive.
